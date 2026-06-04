@@ -31,7 +31,7 @@
 ---
 
 ## 📁 โครงสร้างของ Repository
-```text
+```
 qa-beginner/
 ├── test-cases/
 │   └── login.md          # Test Cases สำหรับ Login Feature
@@ -41,6 +41,7 @@ qa-beginner/
 │   └── JSONPlaceholder API Tests            # Test API สำหรับข้อมูล users โดยใช้ POSTMAN
 │   └── README.md
 └── README.md
+```
 
 ---
 
