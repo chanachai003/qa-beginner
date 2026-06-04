@@ -21,7 +21,7 @@
 | **Feature** | Login |
 | **Severity** | 🟡 Medium |
 | **Priority** | 🟡 Medium |
-| **Status** | 🔴 Open |
+| **Status** | ⚫ Closed |
 | **พบวันที่** | 28/05/2026 |
 | **ผู้พบ** | Chanachai Khamta |
 | **เชื่อมกับ Test Case** | TC-04 |
