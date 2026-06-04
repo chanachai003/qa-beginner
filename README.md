@@ -19,12 +19,12 @@
 
 ## 📊 ความคืบหน้า
 
-| Phase | หัวข้อ | สถานะ |
+| Phase | หัวข้อ | สถานะ | 
 |-------|--------|-------|
 | Phase 0 | QA Mindset & Test Case Writing | ✅ เสร็จแล้ว |
 | Phase 0 | Bug Report Writing | ✅ เสร็จแล้ว |
-| Phase 1 | Postman API Testing | 🔄 กำลังเรียน |
-| Phase 1 | Python & pytest | ⏳ รอคิว |
+| Phase 1 | Postman API Testing | ✅ เสร็จแล้ว |
+| Phase 1 | Python & pytest | 🔄 กำลังเรียน |
 | Phase 2 | Playwright Automation | ⏳ รอคิว |
 | Phase 2 | GitHub Actions CI/CD | ⏳ รอคิว |
 
@@ -36,6 +36,9 @@ qa-beginner/
 │   └── login.md          # Test Cases สำหรับ Login Feature
 ├── bug-reports/
 │   └── bugs.md           # Bug Reports ที่พบจากการทดสอบ
+├── api-tests
+│   └── JSONPlaceholder API Tests            # Test API สำหรับข้อมูล users โดยใช้ POSTMAN
+│   └── README.md
 └── README.md
 
 ---
