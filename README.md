@@ -31,6 +31,7 @@
 ---
 
 ## 📁 โครงสร้างของ Repository
+```text
 qa-beginner/
 ├── test-cases/
 │   └── login.md          # Test Cases สำหรับ Login Feature
