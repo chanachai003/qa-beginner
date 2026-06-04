@@ -43,28 +43,12 @@ qa-beginner/
 
 ---
 
-## 🧪 Test Cases
-
-| ไฟล์ | Feature | จำนวน TC | Pass | Fail |
-|------|---------|----------|------|------|
-| [login.md](./test-cases/login.md) | Login (OTP) | 6 | 5 | 1 |
-
----
-
-## 🐛 Bug Reports
-
-| Bug ID | ชื่อ Bug | Severity | Status |
-|--------|---------|----------|--------|
-| [BUG-01](./bug-reports/bugs.md) | ไม่มี Validation เมื่อ Phone Number ว่างเปล่า | 🟡 Medium | ⚫ Closed |
-
----
-
 ## 🛠️ Tools & Skills
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Python](https://th.bing.com/th/id/ODF.VlTet0VstnaMXLvcA3wuaw?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2)
-![Pustman](https://voyager.postman.com/logo/postman-logo-icon-orange.svg)
+![JSON](https://img.shields.io/badge/json-FFFFFF?style=flat&logo=json&logoColor=black)
+![Pustman](https://img.shields.io/badge/postman-ffffff?style=flat&logo=postman&logoColor=ff6c37)
 
