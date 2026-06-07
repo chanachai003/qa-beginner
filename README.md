@@ -1,4 +1,5 @@
 # 🔍 QA Beginner Portfolio
+![QA Tests](https://github.com/chanachai003/qa-beginner/actions/workflows/pytest.yml/badge.svg)
 
 > Portfolio การเรียนรู้สาย QA Engineer ของ Chanachai Khamta  
 > เริ่มต้นเรียน: พฤษภาคม 2026
@@ -59,4 +60,7 @@ qa-beginner/
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-FFFFFF?style=flat&logo=json&logoColor=black)
 ![Pustman](https://img.shields.io/badge/postman-ffffff?style=flat&logo=postman&logoColor=ff6c37)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
