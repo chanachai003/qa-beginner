@@ -25,7 +25,7 @@
 | Phase 0 | Bug Report Writing | ✅ เสร็จแล้ว |
 | Phase 1 | Postman API Testing | ✅ เสร็จแล้ว |
 | Phase 1 | Python & pytest | ✅ เสร็จแล้ว |
-| Phase 2 | Playwright Automation | 🔄 กำลังเรียน |
+| Phase 2 | Playwright Automation | ✅ เสร็จแล้ว |
 | Phase 2 | GitHub Actions CI/CD | ✅ เสร็จแล้ว |
 
 ---
@@ -35,19 +35,18 @@
 qa-beginner/
 ├── .github/workflows
 │   └── pytest.yml
-├── __pycache__
-│   ├── test_api.cpython-314-pytest-9.0.3.pyc
-│   └──test_login.cpython-314-pytest-9.0.3.pyc
-├── api-tests
-│   ├── JSONPlaceholder API Tests            # Test API สำหรับข้อมูล users โดยใช้ POSTMAN
-│   └── README.md
+├── api-tests/
+│   └── JSONPlaceholder_API_Tests.json
+├── automation/                      
+│   ├── test_browser.py
+│   ├── test_e2e_login.py
+│   └── test_api.py
 ├── test-cases/
 │   └── login.md          # Test Cases สำหรับ Login Feature
 ├── bug-reports/
 │   └── bugs.md           # Bug Reports ที่พบจากการทดสอบ
-├── README.md
-├── test_api.py
-└── test_login.py
+└── README.md
+
 ```
 
 ---
