@@ -18,7 +18,10 @@ jobs:
           python-version: '3.13'
 
       - name: Install dependencies
-        run: pip install pytest requests
+        run: pip install pytest requests playwright
+
+      - name: Install Playwright browsers
+        run: playwright install
 
       - name: Run pytest
         run: pytest -v
