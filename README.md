@@ -13,7 +13,7 @@
 | **อายุ** | 24 ปี
 | **เป้าหมาย** | QA Engineer → AI Workflow Developer |
 | **ที่อยู่** | เชียงราย, ประเทศไทย |
-| **สถานะ** | 🟢 กำลังเรียนรู้ Phase 1 |
+| **สถานะ** | 🟢 กำลังเรียนรู้ Phase 2 |
 
 ---
 
@@ -24,23 +24,30 @@
 | Phase 0 | QA Mindset & Test Case Writing | ✅ เสร็จแล้ว |
 | Phase 0 | Bug Report Writing | ✅ เสร็จแล้ว |
 | Phase 1 | Postman API Testing | ✅ เสร็จแล้ว |
-| Phase 1 | Python & pytest | 🔄 กำลังเรียน |
-| Phase 2 | Playwright Automation | ⏳ รอคิว |
-| Phase 2 | GitHub Actions CI/CD | ⏳ รอคิว |
+| Phase 1 | Python & pytest | ✅ เสร็จแล้ว |
+| Phase 2 | Playwright Automation | 🔄 กำลังเรียน |
+| Phase 2 | GitHub Actions CI/CD | ✅ เสร็จแล้ว |
 
 ---
 
 ## 📁 โครงสร้างของ Repository
 ```
 qa-beginner/
+├── .github/workflows
+│   └── pytest.yml
+├── __pycache__
+│   ├── test_api.cpython-314-pytest-9.0.3.pyc
+│   └──test_login.cpython-314-pytest-9.0.3.pyc
+├── api-tests
+│   ├── JSONPlaceholder API Tests            # Test API สำหรับข้อมูล users โดยใช้ POSTMAN
+│   └── README.md
 ├── test-cases/
 │   └── login.md          # Test Cases สำหรับ Login Feature
 ├── bug-reports/
 │   └── bugs.md           # Bug Reports ที่พบจากการทดสอบ
-├── api-tests
-│   └── JSONPlaceholder API Tests            # Test API สำหรับข้อมูล users โดยใช้ POSTMAN
-│   └── README.md
-└── README.md
+├── README.md
+├── test_api.py
+└── test_login.py
 ```
 
 ---
