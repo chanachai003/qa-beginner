@@ -38,7 +38,8 @@ qa-beginner/
 │   └── pytest.yml
 ├── api-tests/
 │   └── JSONPlaceholder_API_Tests.json
-├── automation/                      
+├── automation/
+|   ├── test_api.py         
 │   ├── test_browser.py
 │   ├── test_e2e_login.py
 │   └── test_api.py
@@ -46,6 +47,7 @@ qa-beginner/
 │   └── login.md          # Test Cases สำหรับ Login Feature
 ├── bug-reports/
 │   └── bugs.md           # Bug Reports ที่พบจากการทดสอบ
+├── .gitignore
 └── README.md
 
 ```
